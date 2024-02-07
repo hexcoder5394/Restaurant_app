@@ -41,8 +41,8 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-- [Your Name]
+- [Achintha Prasanna]
 
 ## Acknowledgements
 
-- This project was inspired by [source/reference].
+- This project was inspired by [Pinterest].
